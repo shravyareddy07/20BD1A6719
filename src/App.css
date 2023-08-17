@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.url{
+  width: 250px; 
+  height: 40px; 
+  font-size: 16px;
+  border-radius: 4%;
+
+}
